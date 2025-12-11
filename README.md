@@ -1,8 +1,11 @@
 # ✨ Introdução
 
 **📚 Nome do projeto:** **Neofit Hub**
+
 **🛠️ Contexto:** Projeto desenvolvido a partir de um scaffold moderno (Lovable) e configurado para deploy em Vercel, servindo como base para uma aplicação web moderna.
+
 **🎯 Objetivo principal:** Criar uma estrutura sólida para uma aplicação front-end utilizando React + TypeScript, com foco em rapidez, componentização e facilidade de expansão.
+
 **💡 Detalhe interessante:** O projeto já nasce com um setup profissional — Tailwind, shadcn-ui, Vite, configs TypeScript — funcionando como um *starter kit* ideal para evoluir para um produto real.
 
 ---
